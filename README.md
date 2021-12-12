@@ -1,6 +1,6 @@
 ## Hi 👋, I am Youssef : a self-taught developer.
 
-### Senior Android Developer , Python developer
+### Senior Android Developer , Python Developer
 
 
 ### Contact me : 
