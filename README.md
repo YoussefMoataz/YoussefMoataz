@@ -18,10 +18,7 @@
 * Python
 * C++
 * SQL
-* Html
-* CSS
-* JavaScript
-* PHP
+
 
 <!---
 YoussefMoataz/YoussefMoataz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
