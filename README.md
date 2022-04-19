@@ -1,13 +1,10 @@
-## Hi 👋, I am Youssef : a self-taught developer.
+## Hi 👋, I am Youssef.
 
-### Senior Android Developer , Python Developer
+### Titles: 
+* Senior Android Developer
+* Python Developer
 
-
-### Links : 
-* [Instagram](https://www.instagram.com/youssefmoataz_/)
-* [Play store page](https://play.google.com/store/apps/dev?id=6245006738668751785)
-
-### Skills :
+### Skills:
 * Android Jetpack
 * Material design
 * Permissions
@@ -18,12 +15,16 @@
 * Algorithms
 * Latest SDKs and libraries
 
-### Languages :
+### Languages:
 * Kotlin
 * Java
 * Python
 * C++
 * SQL
+
+### Links: 
+* [![Instagram]()](https://www.instagram.com/youssefmoataz_/)
+* [![Play store page](https://play-lh.googleusercontent.com/RCIbmmfRJjV3XaIglkqfj4Y6b-IcICKQSwwF3Nj99zJb5h7EpCP7T5CAJEzbuAMI7-4=w144-h144-n-rw)](https://play.google.com/store/apps/dev?id=6245006738668751785)
 
 
 <!---
