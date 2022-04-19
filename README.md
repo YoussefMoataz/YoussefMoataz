@@ -7,12 +7,14 @@
 ### Skills:
 * Android Jetpack
 * Material design
+* Google's ML Kit
 * Permissions
 * Services
 * Database (Room, Firebase)
 * APIs
 * Design patterns
 * Algorithms
+* Tensorflow, TFLite
 * Latest SDKs and libraries
 
 ### Languages:
