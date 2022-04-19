@@ -10,7 +10,13 @@
 ### Skills :
 * Android Jetpack
 * Material design
-* Up-to-date with the latest SDKs and libraries
+* Permissions
+* Services
+* Database (Room, Firebase)
+* APIs
+* Design patterns
+* Algorithms
+* Latest SDKs and libraries
 
 ### Languages :
 * Kotlin
