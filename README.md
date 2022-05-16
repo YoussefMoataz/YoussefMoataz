@@ -13,10 +13,10 @@
 * Services
 * Database (Room, Firebase)
 * APIs
-<!-- * Design patterns -->
-<!-- * Algorithms -->
 * Tensorflow, TFLite
 * Latest SDKs and libraries
+<!-- * Design patterns -->
+<!-- * Algorithms -->
 
 ### Languages:
 * Kotlin
