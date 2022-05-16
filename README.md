@@ -3,6 +3,7 @@
 ### Titles: 
 * Senior Android Developer
 * Python Developer
+* C++ Developer
 
 ### Skills:
 * Android Jetpack
@@ -12,8 +13,8 @@
 * Services
 * Database (Room, Firebase)
 * APIs
-* Design patterns
-* Algorithms
+<!-- * Design patterns -->
+<!-- * Algorithms -->
 * Tensorflow, TFLite
 * Latest SDKs and libraries
 
