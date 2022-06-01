@@ -1,6 +1,7 @@
 ## Hi 👋, I am Youssef.
 
 ### Titles: 
+<!-- * CEO at [Y.Moataz](https://www.facebook.com/y.moataz.dev) -->
 * Senior Android Developer
 * Python Developer
 * C++ Developer
@@ -24,6 +25,8 @@
 * Python
 * C++
 * SQL
+
+<!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMoataz)](https://github.com/anuraghazra/github-readme-stats)  -->
 
 ### Links: 
 * [Instagram](https://www.instagram.com/youssefmoataz_/)
