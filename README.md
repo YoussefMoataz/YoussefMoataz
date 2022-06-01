@@ -19,6 +19,11 @@
 <!-- * Design patterns -->
 <!-- * Algorithms -->
 
+
+<!-- <a href="https://www.linkedin.com/in/youssef-moataz-245713196/">
+    <img src="https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/tensorflow.svg" width="40" height="40" alt="LinkedIn Badge"/>
+</a> -->
+
 ### Languages:
 * Kotlin
 * Java
