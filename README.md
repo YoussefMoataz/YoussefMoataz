@@ -38,10 +38,17 @@
 * [Play Store](https://play.google.com/store/apps/dev?id=6245006738668751785)
 * [LinkedIn](https://www.linkedin.com/in/youssef-moataz-245713196)
 
-<!-- Links with images
-### Links: 
-* [![Instagram]()](https://www.instagram.com/youssefmoataz_/)
-* [![Play store page](https://play-lh.googleusercontent.com/RCIbmmfRJjV3XaIglkqfj4Y6b-IcICKQSwwF3Nj99zJb5h7EpCP7T5CAJEzbuAMI7-4=w144-h144-n-rw)](https://play.google.com/store/apps/dev?id=6245006738668751785) -->
+<!-- Links with images -->
+<!-- ### Links: 
+<a href="https://www.instagram.com/youssefmoataz_/">
+    <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg" width="40" height="40" alt="LinkedIn Badge"/>
+</a> &nbsp;
+<a href="https://play.google.com/store/apps/dev?id=6245006738668751785">
+    <img src="https://www.logo.wine/a/logo/Google_Play/Google_Play-Icon-Logo.wine.svg" width="40" height="40" alt="LinkedIn Badge"/>
+</a> &nbsp;
+<a href="https://www.linkedin.com/in/youssef-moataz-245713196">
+    <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" alt="LinkedIn Badge"/>
+</a> -->
 
 
 <!---
