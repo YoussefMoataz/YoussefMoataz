@@ -6,6 +6,11 @@
 * Python Developer
 * C++ Developer
 
+### Links: 
+* [Instagram](https://www.instagram.com/youssefmoataz_/)
+* [Play Store](https://play.google.com/store/apps/dev?id=6245006738668751785)
+* [LinkedIn](https://www.linkedin.com/in/youssef-moataz-245713196)
+
 ### Skills:
 * Android Jetpack
 * Material design
@@ -31,12 +36,9 @@
 * C++
 * SQL
 
-<!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMoataz)](https://github.com/anuraghazra/github-readme-stats)  -->
-
-### Links: 
-* [Instagram](https://www.instagram.com/youssefmoataz_/)
-* [Play Store](https://play.google.com/store/apps/dev?id=6245006738668751785)
-* [LinkedIn](https://www.linkedin.com/in/youssef-moataz-245713196)
+### Github stats:
+* [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RanaEssam03&hide_border=true)](https://git.io/streak-stats)
+* [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMoataz&layout=compact&theme=dark&langs_count=6&hide=HTML,CSS)](https://github.com/YoussefMoataz)
 
 <!-- Links with images -->
 <!-- ### Links: 
