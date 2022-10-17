@@ -17,7 +17,7 @@
 * Google's ML Kit
 * Permissions
 * Services
-* Database (Room, Firebase)
+* Database (Room, Firebase, MySQL)
 * APIs
 * Tensorflow, TFLite
 * Latest SDKs and libraries
