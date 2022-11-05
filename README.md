@@ -41,6 +41,8 @@
 * [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YoussefMoataz&hide_border=true&theme=default)](https://github.com/YoussefMoataz)
 * [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMoataz&layout=compact&theme=dark&langs_count=6&hide=HTML,CSS)](https://github.com/YoussefMoataz)
 
+<img src="https://komarev.com/ghpvc/?username=YoussefMoataz&label=Profile%20views&color=0e75b6&style=flat" alt="YoussefMoataz" />
+
 <!-- Links with images -->
 <!-- ### Links: 
 <a href="https://www.instagram.com/youssefmoataz_/">
