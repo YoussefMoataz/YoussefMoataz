@@ -13,15 +13,15 @@
 * [LinkedIn](https://www.linkedin.com/in/youssef-moataz-245713196)
 
 ### Skills:
-* Android Jetpack
-* Material design
+* Android App Development
+<!-- * Material design
 * Google's ML Kit
 * Permissions
-* Services
-* Database (Room, Firebase, MySQL)
-* APIs
-* Tensorflow, TFLite
-* Latest SDKs and libraries
+* Services -->
+* Database (Room, MongoDB, MySQL, Firebase, SQL Server, SQLite)
+* REST APIs
+* Machine Learning and Deep Learning (Tensorflow, TFLite, Keras, scikit-learn)
+* Web Development
 <!-- * Design patterns -->
 <!-- * Algorithms -->
 
