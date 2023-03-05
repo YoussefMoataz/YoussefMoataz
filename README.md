@@ -14,14 +14,14 @@
 
 ### Skills:
 * Android App Development
-<!-- * Material design
-* Google's ML Kit
-* Permissions
-* Services -->
 * Database (Room, MongoDB, MySQL, Firebase, SQL Server, SQLite)
 * REST APIs
 * Machine Learning and Deep Learning (Tensorflow, TFLite, Keras, scikit-learn)
 * Web Development
+<!-- * Material design -->
+<!-- * Google's ML Kit -->
+<!-- * Permissions -->
+<!-- * Services -->
 <!-- * Design patterns -->
 <!-- * Algorithms -->
 
