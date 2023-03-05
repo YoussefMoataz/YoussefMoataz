@@ -7,11 +7,6 @@
 * Python Developer
 * C++ Developer
 
-### Links: 
-* [Instagram](https://www.instagram.com/youssefmoataz_/)
-* [Play Store](https://play.google.com/store/apps/dev?id=6245006738668751785)
-* [LinkedIn](https://www.linkedin.com/in/youssef-moataz-245713196)
-
 ### Skills:
 * Android App Development
 * Database (Room, MongoDB, MySQL, Firebase, SQL Server, SQLite)
@@ -36,6 +31,11 @@
 * Python
 * C++
 * SQL
+
+### Links: 
+* [Instagram](https://www.instagram.com/youssefmoataz_/)
+* [Play Store](https://play.google.com/store/apps/dev?id=6245006738668751785)
+* [LinkedIn](https://www.linkedin.com/in/youssef-moataz-245713196)
 
 ### Github stats:
 * [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YoussefMoataz&hide_border=true&theme=default)](https://github.com/YoussefMoataz)
