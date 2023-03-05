@@ -9,8 +9,8 @@
 
 ### Skills:
 * Android App Development
-* Database (Room, MongoDB, MySQL, Firebase, SQL Server, SQLite)
 * REST APIs
+* Database (Room, MongoDB, MySQL, Firebase, SQL Server, SQLite)
 * Machine Learning and Deep Learning (Tensorflow, TFLite, Keras, scikit-learn)
 * Web Development
 <!-- * Material design -->
