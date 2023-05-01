@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I am Youssef.</h1>
+<h1 align="center">Hi 👋, I am Youssef</h1>
 
 <h3 align="center">Software Engineer</h3>
 
 <!-- ### Titles:  -->
-<!-- * CEO at [Y.Moataz](https://www.facebook.com/y.moataz.dev) -->
 <!-- * Software Engineer
 * Senior Android Developer
 * Python Developer
@@ -34,7 +33,7 @@
 * C++
 * SQL -->
 
-<h3 align="left">Languages and Technologies</h3>
+<h3 align="left">Languages and Technologies:</h3>
 <p align="left"> 
 <a href="https://developer.android.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
@@ -56,7 +55,7 @@
 
 </p>
 
-<h3 align="left">Tools</h3>
+<h3 align="left">Tools:</h3>
 <p align="left"> 
 <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -68,10 +67,18 @@
 </p>
 
 
-### Links: 
+<!-- ### Links: 
 * [Instagram](https://www.instagram.com/youssefmoataz_/)
 * [Play Store](https://play.google.com/store/apps/dev?id=6245006738668751785)
-* [LinkedIn](https://www.linkedin.com/in/youssef-moataz-245713196)
+* [LinkedIn](https://www.linkedin.com/in/youssef-moataz-245713196) -->
+
+<h3 align="left">Links:</h3>
+<p align="left"> 
+    
+<a href="https://play.google.com/store/apps/dev?id=6245006738668751785" target="_blank" rel="noreferrer"> <img src="https://www.logo.wine/a/logo/Google_Play/Google_Play-Icon-Logo.wine.svg" alt="cplusplus" width="40" height="40"/> </a> 
+<a href="https://www.instagram.com/youssefmoataz_/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cplusplus" width="40" height="40"/> </a> 
+<a href="https://www.linkedin.com/in/youssef-moataz-245713196" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cplusplus" width="40" height="40"/> </a> 
+</p> 
 
 ### Github stats:
 * [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YoussefMoataz&hide_border=true&theme=default)](https://github.com/YoussefMoataz)
