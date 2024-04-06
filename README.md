@@ -17,14 +17,14 @@
 <!--     <br> -->
 <!-- <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="Mssql" width="40" height="40"/> </a> 
 <!-- <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?theme=light&i=sqlite" alt="sqlite" width="40" height="40"/> </a>  -->
-<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="Numpy" width="40" height="40"/> </a>
-<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?theme=light&i=tensorflow" alt="Tensorflow" width="40" height="40"/></a> 
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?theme=light&i=django" alt="Django" width="40" height="40"/> </a> 
+<!-- <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="Numpy" width="40" height="40"/> </a> -->
+<!-- <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?theme=light&i=tensorflow" alt="Tensorflow" width="40" height="40"/></a>  -->
+<!-- <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?theme=light&i=django" alt="Django" width="40" height="40"/> </a>  -->
 <!-- <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?theme=light&i=cs" alt="CSharp" width="40" height="40"/> </a> -->
-<a href="https://gradle.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?theme=light&i=gradle" alt="Gradle" width="40" height="40"/> </a> 
+<!-- <a href="https://gradle.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?theme=light&i=gradle" alt="Gradle" width="40" height="40"/> </a>  -->
 <!-- <a href="https://cmake.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?theme=light&i=cmake" alt="CMake" width="40" height="40"/> </a>  -->
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?theme=light&i=firebase" alt="Firebase" width="40" height="40"/> </a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?theme=light&i=spring" alt="Spring Boot" width="40" height="40"/> </a> 
+<!-- <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?theme=light&i=firebase" alt="Firebase" width="40" height="40"/> </a> -->
+<!-- <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?theme=light&i=spring" alt="Spring Boot" width="40" height="40"/> </a>  -->
 <!--     <br> -->
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?theme=light&i=flutter" alt="Flutter" width="40" height="40"/> </a> 
 <!-- <a href="https://graphql.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?theme=light&i=graphql" alt="GraphQL" width="40" height="40"/> </a> 
